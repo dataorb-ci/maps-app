@@ -1,7 +1,7 @@
 {
   "short_name": "Maps",
   "name": "Maps",
-  "description": "DataOrb Maps",
+  "description": "DHIS2 Maps",
   "icons": [
     {
       "src": "android-chrome-192x192.png",
@@ -19,7 +19,7 @@
       "sizes": "180x180"
     },
     {
-      "src": "dataorb-app-icon.png",
+      "src": "dhis2-app-icon.png",
       "type": "image/png",
       "sizes": "48x48"
     },
