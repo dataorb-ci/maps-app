@@ -3,7 +3,7 @@
   "appType": "APP",
   "short_name": "maps",
   "name": "Maps",
-  "description": "DHIS2 Maps",
+  "description": "DataOrb Maps",
   "version": "100.3.0",
   "core_app": true,
   "launch_path": "index.html",

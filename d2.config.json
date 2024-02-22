@@ -9,7 +9,7 @@
   "author": {
     "name": "Bjørn Sandvik"
   },
-  "description": "DHIS2 Maps",
+  "description": "DataOrb Maps",
   "entryPoints": {
     "app": "index.html",
     "plugin": "plugin.html"
